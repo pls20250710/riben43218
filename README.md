@@ -18,4 +18,4 @@
 
 未来，结合AI、5G和云计算技术，成人平台将实现更加智能化、个性化的服务，同时注重合规与内容创新的平衡，提升整体服务质量，为用户打造更加安全、高效、愉悦的观看环境。
 
-<span style="display:none;">[Canonical link]( ）</span>
+<span style="display:none;">[Canonical link]( https://github.com/pls20250710/riben43218 ）</span>
